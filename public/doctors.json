@@ -1,0 +1,38 @@
+[
+    {
+        "key": 1,
+        "name": "Dr. Jolian Acenj",
+        "img": "https://templates.hibootstrap.com/opnix/default/assets/images/doctors/main1.png",
+        "specialist": "Surgery Specialist"
+    },
+    {
+        "key": 2,
+        "name": "Dr. Arnica Sarah",
+        "img": "https://templates.hibootstrap.com/opnix/default/assets/images/doctors/main2.png",
+        "specialist": "Surgery Specialist"
+    },
+    {
+        "key": 3,
+        "name": "Dr. Jolian Mia",
+        "img": "https://templates.hibootstrap.com/opnix/default/assets/images/doctors/main3.png",
+        "specialist": "Lasik Specialist"
+    },
+    {
+        "key": 4,
+        "name": "Dr. Triben Dina",
+        "img": "https://templates.hibootstrap.com/opnix/default/assets/images/doctors/main4.png",
+        "specialist": "Lasik Specialist"
+    },
+    {
+        "key": 5,
+        "name": "Dr. Alena Malic",
+        "img": "https://templates.hibootstrap.com/opnix/default/assets/images/doctors/main5.png",
+        "specialist": "Contact Lens Specialist"
+    },
+    {
+        "key": 6,
+        "name": "Dr. Malina Angel",
+        "img": "https://templates.hibootstrap.com/opnix/default/assets/images/doctors/main6.png",
+        "specialist": "Lasik Specialist"
+    }
+]

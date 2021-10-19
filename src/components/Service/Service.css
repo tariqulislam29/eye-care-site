@@ -1,0 +1,28 @@
+.card-design{
+    height: 560px;
+    border-radius: 10px;
+     background-color: rgb(224, 230, 233);
+}
+.card-design .image-size{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.card-design button{
+      border-radius: 10px;
+      margin-left: 30%;
+    transition: 2s ease;
+
+}
+.card-design button:hover{
+    padding-right: 30px;
+}
+
+
+@media screen and (max-width: 600px) and (min-width: 360px) {
+
+
+.card-design{
+    height: 600px;
+}
+
+}

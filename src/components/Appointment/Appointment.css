@@ -1,0 +1,43 @@
+.appointment{
+    display: flex;
+   width: 100%;
+   margin-top: 30px;
+   margin-bottom: 100px;
+   background-color: rgb(225, 232, 236);
+   padding: 50px 0;
+}
+.appointment-image{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+}
+.appointment-image img{
+    width: 70%;
+    height: 70vh;
+}
+
+.appointment-details{
+    width: 50%;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+}
+
+
+@media screen and (max-width: 600px) and (min-width: 360px) {
+
+.appointment{
+    flex-direction: column;
+}
+.appointment-image{
+    width: 100%;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+.appointment-details{
+    width: 100%;
+}
+
+
+
+}
